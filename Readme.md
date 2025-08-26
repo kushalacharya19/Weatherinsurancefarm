@@ -51,8 +51,7 @@ Our vision is to democratize agricultural risk management by providing farmers w
 contract ID: ST1RDQ6871JVPC595VC5QC067FK719WSKHEQQ6W3A.WeatherInsuranceFar\
 ![alt text](image.png)
 
-**Testnet Address**: `[To be added after deployment]`
-**Mainnet Address**: `[To be added after mainnet deployment]`
+
 
 ### Contract Functions
 
@@ -82,4 +81,5 @@ contract ID: ST1RDQ6871JVPC595VC5QC067FK719WSKHEQQ6W3A.WeatherInsuranceFar\
 For technical support, documentation, and community discussions:
 - GitHub: [Repository Link]
 - Discord: [Community Link]
+
 - Email: support@weatherinsurance.farm
